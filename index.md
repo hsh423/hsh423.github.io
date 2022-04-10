@@ -44,17 +44,15 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ---
 
-## Career Objectives
+## Career Objective
 
-Write what you want. 
-
-Sell yourself!
+This summer, I will be interning at the investment banking division of DNB Markets. My objective is to learn as much as possible about indsutrials and energy investment banking services and to begin my career working within one of these fields. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I am passionate about tennis, surfing, skiing, rock music, and volunteer work. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
