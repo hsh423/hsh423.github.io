@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a junor at Lehigh University majoring in finance. My other main academic pursuits are computer science and data analytics. I am particularly interested in finance as it relates to growing technology and energy companies. 
+I am currently a junior at Lehigh University majoring in finance. My other main academic pursuits are computer science and data analytics. I am particularly interested in finance as it relates to growing technology and energy companies. 
 
 <!-- Upload your own photo and change the path -->
 
