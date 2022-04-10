@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+I am currently a junor at Lehigh majoring in finance. I have completed signifigant coursework in computer science and data analytics. I am particularly interested in finance as it relates to technology and energy companies. 
 
 <!-- Upload your own photo and change the path -->
 
