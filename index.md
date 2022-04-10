@@ -5,7 +5,7 @@ I am currently a junor at Lehigh majoring in finance. I have completed signifiga
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/hsh423/hsh423.github.io/blob/master/images/logo.png" width="50%">
 </p>
 
 ---
