@@ -44,7 +44,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objective
 
-This summer, I will be interning at the investment banking division of DNB Markets. My objective is to learn as much as possible about indsutrials and energy investment banking services and to begin my career working within one of these fields. 
+This summer, I will be interning within the investment banking division of DNB Markets. My objective is to learn as much as possible about indsutrials and energy investment banking services and to begin my career working within one of these fields. 
 
 ---
 
